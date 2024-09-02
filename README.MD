@@ -3,11 +3,11 @@
 **Version : 1.0**
 
 ## __Commands__
-!say
-!ping
-!permid "id"
-!unban
-!info
+- !say
+- !ping
+- !permid "id"
+- !unban
+- !info
 
 
 ## EN
