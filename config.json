@@ -1,0 +1,31 @@
+{
+    "token": "token",
+    "LogsBotOn": "id_du_salon_logs",
+
+    "authorizedUserIds": ["id_des_personnes_autoriser_a_utiliser_!say", "qui_permet_de_faire_parler_le_bot"],
+    "autoriserole": "id_role_autorise_pour_faire_commande",
+    "permidchannel": "channel_permid",
+
+    "hostIp": "ip_hebergeur",
+    "UserId": "nom_dutilisateur",
+    "Password": "MDP_bdd",
+    "NomBdd": "nom_de_la_bdd",
+
+
+
+    "imgDarkChat": "https://cdn.iconscout.com/icon/free/png-256/list-message-2367725-1976875.png",
+    "imgDarkChat2": "https://i.imgur.com/g8fmHWp.png",
+
+    "imgTwitter": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+    "imgLeBonCoin": "https://images.ladepeche.fr/api/v1/images/view/5c347c683e45461295307965/full/image.jpg",
+
+    "logsIdChannel": "id_channel_logs_darkchat",
+
+    "channelTwitter": "",
+    "channelDarkChat": "",
+    "channelSuggestion": "",
+    "channelLbc": "",
+
+    "reactionUp": "white_check_mark",
+    "reactionDown": "x"
+}
